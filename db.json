@@ -1,22 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Going home early",
-      "day": "Feb 15th at 3:12pm",
-      "reminder": true
+      "text": "Make diner for family",
+      "day": "Friday at 20:00",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "study more",
-      "day": "Feb 1th at 7:12pm",
-      "reminder": true
+      "text": "Take the dog for a run",
+      "day": "Sunday at 11:00",
+      "reminder": true,
+      "id": 2
     },
     {
-      "id": 3,
-      "text": "Going to shcool earlier",
-      "day": "Feb 2th at 4:12pm",
-      "reminder": false
+      "text": "Learn react asap and efficiently",
+      "day": "From April 4th",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
