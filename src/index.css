@@ -8,14 +8,18 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-image: url("../public/images/Wallpapaer.webp");
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .container {
+  background-color: #2c6688;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid #254151;
   padding: 30px;
   border-radius: 5px;
 }
@@ -62,7 +66,7 @@ body {
 }
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 5px solid rgb(34, 171, 34);
 }
 
 .task h3 {
